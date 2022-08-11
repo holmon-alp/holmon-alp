@@ -10,7 +10,7 @@ Contact:
 
 >>| 
 <a href="https://facebook.com/holmonalp">Facebook</a> **|**
-<a href="https://instagram.com/holmonalp">Instagram</a> **|**
+<a href="https://twitter.com/holmonalp">Twitter</a> **|**
 <a href="https://linkedin.com/holmonalp">LinkedIn</a>
 <a href="tel:+998339180103">+998339180103</a>
 >>|
