@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mirjamol
+<h1>- 👋 Hi, I’m Mirjamol </h1>
 - 👀 I’m interested in watching TV and travels
 - 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on ...
