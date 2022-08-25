@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/96412090/186643419-1122044e-1532-4edc-aea5-1d1e56eba8dc.png)
+![hello](https://user-images.githubusercontent.com/96412090/186644844-ecf0c930-5821-4edc-9d66-6fc5cb391038.png)
 emoji
 
 <h1>- 👋 Hi, I’m Mirjamol </h1>
