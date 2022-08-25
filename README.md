@@ -7,7 +7,7 @@ BRO
 
 - 🌱 I’m currently learning C and Java
 
-- :information_desk_person: I'm student at ![Qwasar SV](https://qwasar.io/)
+- :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/)
 
 - 📫 How to reach me 
 
