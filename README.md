@@ -1,5 +1,5 @@
 ![hello](https://user-images.githubusercontent.com/96412090/186645110-ba250d9a-b982-4b21-b3f4-2d75eb7acdad.png)
-emoji
+BRO
 
 <h1>- 👋 Hi, I’m Mirjamol </h1>
 
@@ -7,7 +7,7 @@ emoji
 
 - 🌱 I’m currently learning C and Java
 
-- 💞️ I’m looking to collaborate on ...
+- :information_desk_person: I'm student at ![Qwasar SV](https://qwasar.io/)
 
 - 📫 How to reach me 
 
