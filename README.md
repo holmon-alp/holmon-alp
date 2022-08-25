@@ -11,11 +11,12 @@ emoji
 
 - 📫 How to reach me 
 
-<div style="width:100px; height:80px; margin-left:50px">
+
   
 ![developer](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
 
-</div>
+![memoji-021](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
+
 Contact:
 
 
