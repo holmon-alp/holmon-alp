@@ -19,7 +19,6 @@
 
 Contact:
 
-
 >>| 
 <a href="https://facebook.com/holmonalp">Facebook</a> **|**
 <a href="https://twitter.com/holmonalp">Twitter</a> **|**
