@@ -10,10 +10,11 @@
 
 <div style="width:100px; height:80px; margin-left:50px">
   
-![image](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
+![developer](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
 
 </div>
 Contact:
+![hello](https://user-images.githubusercontent.com/96412090/186642894-3752853f-4e4e-4a45-81d0-7dd2ecc42247.png)
 
 >>| 
 <a href="https://facebook.com/holmonalp">Facebook</a> **|**
