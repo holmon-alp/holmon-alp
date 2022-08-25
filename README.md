@@ -1,3 +1,5 @@
+![hello](https://user-images.githubusercontent.com/96412090/186642894-3752853f-4e4e-4a45-81d0-7dd2ecc42247.png)
+
 <h1>- 👋 Hi, I’m Mirjamol </h1>
 
 - 👀 I’m interested in watching TV and travels
@@ -14,7 +16,7 @@
 
 </div>
 Contact:
-![hello](https://user-images.githubusercontent.com/96412090/186642894-3752853f-4e4e-4a45-81d0-7dd2ecc42247.png)
+
 
 >>| 
 <a href="https://facebook.com/holmonalp">Facebook</a> **|**
