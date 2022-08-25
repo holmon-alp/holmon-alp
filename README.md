@@ -1,7 +1,6 @@
-![hello](https://user-images.githubusercontent.com/96412090/186645110-ba250d9a-b982-4b21-b3f4-2d75eb7acdad.png)
-BRO
 
-<h1>- 👋 Hi, I’m Mirjamol </h1>
+
+<h1>- ![hello](https://user-images.githubusercontent.com/96412090/186645110-ba250d9a-b982-4b21-b3f4-2d75eb7acdad.png) Hi, I’m Mirjamol </h1>
 
 - 👀 I’m interested in watching TV and travels
 
