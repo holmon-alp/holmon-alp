@@ -9,7 +9,9 @@
 - 📫 How to reach me 
 
 <div style="width:150px; height:100px">
+  
 ![image](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
+
 </div>
 Contact:
 
