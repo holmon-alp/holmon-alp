@@ -20,10 +20,11 @@
 ```mermaid
 pie
     title Programming languages
-    "C (for qwasar projects)" : 320
+    "C (for qwasar projects)" : 210
     "JavaScript (for FrontEnd" : 85
     "Python" : 150
-    "SQL (PostgeSQL" : 90
+    "SQL (PostgeSQL)" : 90
+    "Basicly learning (GO, Java)" : 70
 ```
 
 ![small dev](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
