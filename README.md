@@ -19,7 +19,7 @@
 ```mermaid
 pie
     title Pie Chart
-    "C (for qwasar projects)" : 386
+    "C (for qwasar projects)" : 320
     "JavaScript (for FrontEnd" : 85
     "Python" : 150
     "SQL (PostgeSQL" : 150
