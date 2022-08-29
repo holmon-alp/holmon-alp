@@ -15,7 +15,17 @@
   
 ![developer](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
 
-![memoji-021](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
+## My use of programming languages
+```mermaid
+pie
+    title Pie Chart
+    "C (for qwasar projects)" : 386
+    "JavaScript (for FrontEnd" : 85
+    "Python" : 150
+    "SQL (PostgeSQL" : 150
+```
+
+![small dev](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
 
 Contact:
 
