@@ -16,6 +16,8 @@
 ![developer](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
 
 ## My use of programming languages
+
+```mermaid
 <style>
  :root {
   --mermaid-theme: forest; /*or base, dark, forest, neutral, night */
@@ -25,10 +27,9 @@
   --mermaid--gantt-left-padding: 75; /* see https://github.com/typora/typora-issues/issues/1665*/
 } 
 </style>
-```mermaid
 pie
     title Programming languages
-    "C (for qwasar projects)" : 320`#RRGGBB`
+    "C (for qwasar projects)" : 320
     "JavaScript (for FrontEnd" : 85
     "Python" : 150
     "SQL (PostgeSQL" : 90
