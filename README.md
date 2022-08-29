@@ -1,16 +1,18 @@
 
 # Hi, I’m Mirjamol ![small dev](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
 
-- 👀 My hobbies is watching TV and travels
+- 👀 I'm from Uzbekistan
 
-- 🌱 I’m currently learning C and Java
+- 🌱 And I'm 19 years old
 
 - :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/)
 
-- 📫 [my email](mailto:alpholmon@gmail.com)
+- My hobbies is Sport, watching Movies and Traveling
+
+- 📫 if you want [my email](mailto:alpholmon@gmail.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
+[![Mirjamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
 
 
 
@@ -25,8 +27,6 @@ pie
     "Python" : 150
     "C (for qwasar projects)" : 180
 ```
-
-
 
 Contact:
 >>| 
