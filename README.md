@@ -24,7 +24,7 @@
   --mermaid-flowchart-curve: linear /* or "basis", see https://github.com/typora/typora-issues/issues/1632*/;
   --mermaid--gantt-left-padding: 75; /* see https://github.com/typora/typora-issues/issues/1665*/
 } 
- </style>
+</style>
 ```mermaid
 pie
     title Programming languages
