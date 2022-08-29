@@ -10,6 +10,8 @@
 - 📫 [email ](alpholmon@gmail.com)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
+
 
 
 ## My use of programming languages
