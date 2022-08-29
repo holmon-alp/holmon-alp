@@ -19,7 +19,7 @@
 ```mermaid
 pie
     title Programming languages
-    "C (for qwasar projects)" : 210
+    "C (for qwasar projects)" : 200
     "JavaScript (for FrontEnd" : 85
     "Python" : 150
     "SQL (PostgeSQL)" : 90
@@ -29,7 +29,6 @@ pie
 
 
 Contact:
-
 >>| 
 [Facebook](https://facebook.com/holmonalp) **|**
 [Twitter](https://twitter.com/holmonalp) **|**
