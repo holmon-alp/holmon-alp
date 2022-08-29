@@ -5,10 +5,9 @@
 
 - 🌱 And I'm 19 years old
 
-- :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/)
-   study 'Software Engineering' track
+- :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/), 'Software Engineering' track
    
-- :jigsaw: Languages: Uzbek, English(Intermedied), Turkish
+- :jigsaw: Languages: Uzbek, English(Intermediate), Turkish
 
 - :mountain_biking_man: My hobbies is Sport, watching Movies and Traveling
 
@@ -31,9 +30,9 @@ pie
 
 Contact:
 
-[**`Facebook`**](https://facebook.com/holmonalp) **|**
-[**`Twitter`**](https://twitter.com/holmonalp)   **|**
-[**`LinkedIn`**](https://linkedin.com/holmonalp) **|**
+[**` Facebook `**](https://facebook.com/holmonalp) **|**
+[**` Twitter `**](https://twitter.com/holmonalp)   **|**
+[**` LinkedIn `**](https://linkedin.com/holmonalp) **|**
 [**`+998339180103`**](tel:+998339180103)
 
 
