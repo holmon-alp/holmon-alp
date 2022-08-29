@@ -28,7 +28,7 @@
 ```mermaid
 pie
     title Programming languages
-    "C (for qwasar projects)" `#RRGGBB` : 320
+    "C (for qwasar projects)" : 320`#RRGGBB`
     "JavaScript (for FrontEnd" : 85
     "Python" : 150
     "SQL (PostgeSQL" : 90
