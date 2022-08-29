@@ -34,6 +34,7 @@ Contact:
 <a href="https://twitter.com/holmonalp">Twitter</a> **|**
 <a href="https://linkedin.com/holmonalp">LinkedIn</a>
 <a href="tel:+998339180103">+998339180103</a>
+[Phone](tel:+998339180103)
 >>|
 <!---
 holmon-alp/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
