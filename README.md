@@ -7,7 +7,7 @@
 
 - :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/)
 
-- My hobbies is Sport, watching Movies and Traveling
+- :mountain_biking_man: My hobbies is Sport, watching Movies and Traveling
 
 - 📫 if you want [my email](mailto:alpholmon@gmail.com)
 
@@ -37,9 +37,10 @@ Contact:
 >>|
 
 
+
+<!---
   
 ![developer](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
-<!---
 holmon-alp/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
