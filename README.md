@@ -14,8 +14,6 @@
 
 [![Mirjamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
 
-
-
 ## My case of using programming languages
 
 ```mermaid
@@ -29,12 +27,11 @@ pie
 ```
 
 Contact:
->>| 
+
 [Facebook](https://facebook.com/holmonalp) **|**
 [Twitter](https://twitter.com/holmonalp) **|**
 [LinkedIn](https://linkedin.com/holmonalp) **|**
 [+998339180103](tel:+998339180103)
->>|
 
 
 
