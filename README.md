@@ -20,10 +20,10 @@
 pie
     title Programming languages
     "JavaScript (for FrontEnd" : 85
-    "SQL (PostgeSQL)" : 90
+    "SQL (PostgeSQL)" : 70
     "Basicly learning (GO, Java)" : 70
     "Python" : 150
-    "C (for qwasar projects)" : 200
+    "C (for qwasar projects)" : 180
 ```
 
 
