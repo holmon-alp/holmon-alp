@@ -14,12 +14,12 @@
 
 
 
-## My use of programming languages
+## My case of using programming languages
 
 ```mermaid
 pie
     title Programming languages
-    "JavaScript (for FrontEnd" : 85
+    "JavaScript (html, css)" : 85
     "SQL (PostgeSQL)" : 70
     "Basicly learning (GO, Java)" : 70
     "Python" : 150
