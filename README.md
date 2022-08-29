@@ -18,11 +18,11 @@
 ## My use of programming languages
 ```mermaid
 pie
-    title Pie Chart
+    title Programming languages
     "C (for qwasar projects)" : 320
     "JavaScript (for FrontEnd" : 85
     "Python" : 150
-    "SQL (PostgeSQL" : 150
+    "SQL (PostgeSQL" : 90
 ```
 
 ![small dev](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
@@ -34,7 +34,7 @@ Contact:
 <a href="https://twitter.com/holmonalp">Twitter</a> **|**
 <a href="https://linkedin.com/holmonalp">LinkedIn</a>
 <a href="tel:+998339180103">+998339180103</a>
-[Phone](tel:+998339180103)
+
 >>|
 <!---
 holmon-alp/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
