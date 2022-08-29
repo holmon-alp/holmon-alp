@@ -34,7 +34,7 @@ Contact:
 [Facebook](https://facebook.com/holmonalp) **|**
 [Twitter](https://twitter.com/holmonalp) **|**
 [LinkedIn](https://linkedin.com/holmonalp) **|**
-[+998339180103](+998339180103)
+[+998339180103](tel:+998339180103)
 >>|
 
 
