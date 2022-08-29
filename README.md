@@ -7,7 +7,7 @@
 
 - :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/)
 
-- 📫 [email ](alpholmon@gmail.com)
+- 📫 [my email](mailto:alpholmon@gmail.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
