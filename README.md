@@ -14,7 +14,7 @@
 
 [![Mirjamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
 
-## My case of using programming languages
+## My case of using programming languages below
 
 ```mermaid
 pie
@@ -23,7 +23,7 @@ pie
     "SQL (PostgeSQL)" : 70
     "Basicly learning (GO, Java)" : 70
     "Python" : 150
-    "C (for qwasar projects)" : 180
+    "`C (for qwasar projects)`" : 180
 ```
 
 Contact:
