@@ -14,7 +14,7 @@
 - :incoming_envelope: if you want [`my email`](mailto:alpholmon@gmail.com)
 
 
-[![Mirjamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmon-alp)](https://github.com/holmon-alp/github-readme-stats)
+![Mirjamol's github stats](https://github-readme-stats.vercel.app/api?username=holmon-alp&theme=merko&show_icons=true)
 
 ## My case of using programming languages below
 
