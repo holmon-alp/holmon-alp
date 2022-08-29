@@ -23,7 +23,7 @@ pie
     "SQL (PostgeSQL)" : 70
     "Basicly learning (GO, Java)" : 70
     "Python" : 150
-    "`C (for qwasar projects)`" : 180
+    `C (for qwasar projects)` : 180
 ```
 
 Contact:
