@@ -18,15 +18,6 @@
 ## My use of programming languages
 
 ```mermaid
-<style>
- :root {
-  --mermaid-theme: forest; /*or base, dark, forest, neutral, night */
-  --mermaid-font-family: "trebuchet ms", verdana, arial, sans-serif;
-  --mermaid-sequence-numbers: off; /* or "on", see https://mermaid-js.github.io/mermaid/#/sequenceDiagram?id=sequencenumbers*/
-  --mermaid-flowchart-curve: linear /* or "basis", see https://github.com/typora/typora-issues/issues/1632*/;
-  --mermaid--gantt-left-padding: 75; /* see https://github.com/typora/typora-issues/issues/1665*/
-} 
-</style>
 pie
     title Programming languages
     "C (for qwasar projects)" : 320
