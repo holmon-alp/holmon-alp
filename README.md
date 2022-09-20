@@ -41,5 +41,5 @@ Contact:
 holmon-alp/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://raw.githubusercontent.com/brunobritodev/awesome-github-stats/master/docs/awesomestats.gif" alt="Demo Site" title="Demo Site" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://raw.githubusercontent.com/holmon-alp/awesome-github-stats/master/docs/awesomestats.gif" alt="Demo Site" title="Demo Site" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 100%;">
