@@ -17,15 +17,13 @@
 
 ## My case of using programming languages below
 
-```mermaid
-pie
-    title Programming languages
-    "JavaScript (html, css)"
-    "SQL (PostgeSQL)" 
-    "Basic Java"
-    "Python" 
-    "C " 
-```
+   - From down to up
+   - "JavaScript (html, css)"
+   - "SQL (PostgeSQL)" 
+   - "Basic Java"
+   - "Python" 
+   - "C " 
+
 
 Contact:
 [**` Facebook `**](https://facebook.com/holmonalp) **|**
