@@ -3,9 +3,8 @@
 
 - :earth_asia: I'm from Uzbekistan
 
-- 🌱 And I'm 19 years old
 
-- :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/), 'Software Engineering' track
+- :information_desk_person: I'm graduate of [Qwasar Silicon Valley](https://qwasar.io/), 'Software Engineering' track
    
 - :jigsaw: Languages: Uzbek, English(Intermediate), Turkish
 
@@ -21,11 +20,11 @@
 ```mermaid
 pie
     title Programming languages
-    "JavaScript (html, css)" : 85
-    "SQL (PostgeSQL)" : 70
-    "Basicly learning Java" : 70
-    "Python" : 150
-    "C (for qwasar projects)" : 180
+    "JavaScript (html, css)"
+    "SQL (PostgeSQL)" 
+    "Basic Java"
+    "Python" 
+    "C " 
 ```
 
 Contact:
