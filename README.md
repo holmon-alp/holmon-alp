@@ -1,12 +1,14 @@
 
 # Hi, I’m Mirjamol ![small dev](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
 
-- :earth_asia: I'm from Uzbekistan
+- :earth_asia: I'm Data Scientist & Software Engineer
 
 
-- :information_desk_person: I'm graduate of [Qwasar Silicon Valley](https://qwasar.io/), 'Software Engineering' track
+- :information_desk_person: Graduate of
+  [Qwasar Silicon Valley](https://qwasar.io/), 'Software Engineering' track
+  [Mohirdev](https://mohirdev.uz), "Data Science & Artificial Intelligence"
    
-- :jigsaw: Languages: Uzbek, English(Intermediate), Turkish
+- :jigsaw: Languages: Uzbek, English, Turkish
 
 - :mountain_biking_man: My hobbies is Sport, watching Movies and Traveling
 
@@ -18,9 +20,13 @@
 ## My case of using programming languages below
 
    - From down to up
+   - Machine Learning
+   - Deep Learning
+   - Data Cleaning
+   - Data Preparing
    - "JavaScript (html, css)"
    - "SQL (PostgeSQL)" 
-   - "Basic Java"
+   - "Java Basic"
    - "Python" 
    - "C " 
 
@@ -28,7 +34,7 @@
 Contact:
 [**` Facebook `**](https://facebook.com/holmonalp) **|**
 [**` Twitter `**](https://twitter.com/holmonalp)   **|**
-[**` LinkedIn `**](https://linkedin.com/holmonalp) **|**
+[**` LinkedIn `**](https://linkedin.com/in/holmonalp) **|**
 [**` Telegram `**](https://t.me/HolmonAlp) **|**
 [**`+998339180103`**](tel:+998339180103)
 
