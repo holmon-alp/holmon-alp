@@ -4,10 +4,10 @@
 - :earth_asia: I'm Data Scientist & Software Engineer
 
 
-- :information_desk_person: Graduate of
--           **[Qwasar Silicon Valley](https://qwasar.io/)**, 'Software Engineering' track
--           **[Mohirdev](https://mohirdev.uz)**, "Data Science & Artificial Intelligence"
-   
+- :information_desk_person: Graduate of:
+      - **[Qwasar Silicon Valley](https://qwasar.io/)**, 'Software Engineering' track
+      - **[Mohirdev](https://mohirdev.uz)**, "Data Science & Artificial Intelligence"
+         
 - :jigsaw: Languages: Uzbek, English, Turkish
 
 - :mountain_biking_man: Hobbies is Sport, watching Movies and Traveling
