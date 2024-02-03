@@ -5,8 +5,8 @@
 
 
 - :information_desk_person: Graduate of:
-      - **[Qwasar Silicon Valley](https://qwasar.io/)**, 'Software Engineering' track
-      - **[Mohirdev](https://mohirdev.uz)**, "Data Science & Artificial Intelligence"
+* **[Qwasar Silicon Valley](https://qwasar.io/)**, 'Software Engineering' track
+* **[Mohirdev](https://mohirdev.uz)**, "Data Science & Artificial Intelligence"
          
 - :jigsaw: Languages: Uzbek, English, Turkish
 
