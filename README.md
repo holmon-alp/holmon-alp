@@ -5,14 +5,14 @@
 
 
 - :information_desk_person: Graduate of
-  [Qwasar Silicon Valley](https://qwasar.io/), 'Software Engineering' track
-  [Mohirdev](https://mohirdev.uz), "Data Science & Artificial Intelligence"
+-  **[Qwasar Silicon Valley](https://qwasar.io/)**, 'Software Engineering' track
+-  **[Mohirdev](https://mohirdev.uz)**, "Data Science & Artificial Intelligence"
    
 - :jigsaw: Languages: Uzbek, English, Turkish
 
-- :mountain_biking_man: My hobbies is Sport, watching Movies and Traveling
+- :mountain_biking_man: Hobbies is Sport, watching Movies and Traveling
 
-- :incoming_envelope: if you want [`my email`](mailto:alpholmon@gmail.com)
+- :incoming_envelope: If you want [`my email`](mailto:alpholmon@gmail.com)
 
 
 ![Mirjamol's github stats](https://github-readme-stats.vercel.app/api?username=holmon-alp&theme=merko&show_icons=true)
@@ -24,6 +24,7 @@
    - Deep Learning
    - Data Cleaning
    - Data Preparing
+   - **Tools**
    - "JavaScript (html, css)"
    - "SQL (PostgeSQL)" 
    - "Java Basic"
